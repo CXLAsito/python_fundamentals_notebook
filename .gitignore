@@ -50,4 +50,5 @@ target/
 # Notebook Checkpoints
 .ipynb_checkpoints/
 
-.venv
+.venv/
+.vscode/
